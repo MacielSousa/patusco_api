@@ -47,3 +47,8 @@ composer install
   GET|HEAD  sanctum/csrf-cookie ................................................. sanctum.csrf-cookie › Laravel\Sanctum › CsrfCookieController@show
   GET|HEAD  up ....................................................................................................................................
 ```
+
+### Complementary Project
+
+[Complementary Project](https://github.com/MacielSousa/patusco_front).
+
