@@ -2,7 +2,7 @@
 
 ```
 LARAVEL 11
-Docker
+DOCKER
 MYSQL
 SAIL
 ```
