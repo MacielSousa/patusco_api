@@ -24,3 +24,6 @@ composer install
 # ./sail up
 
 # ./sail art migrate
+
+# ./sail artisan db:seed
+```
